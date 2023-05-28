@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying computer science and learning python.<br>Upcoming Software Engineer
+Currently studying computer science.
 
 
 ## 🌐 Socials:
